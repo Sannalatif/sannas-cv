@@ -1,0 +1,118 @@
+* {
+    margin:0;
+}
+
+body {
+    background-color:azure
+}
+
+#wrapper {
+    width: 1000px;
+    margin: auto;
+}
+
+
+header {
+    background-color:azure;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1rem;
+
+}
+
+h1 {
+    text-align: center;
+    font-size:  4rem;
+}
+
+
+h2 {
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+h3 {
+    text-align: center;
+    padding: 1rem;
+}
+
+h4 {
+    text-align: center;
+    padding: 1rem;
+}
+.sidebar {
+    float: left;
+    border-right: solid;
+    padding-right: 1rem;
+    background-color: azure;
+    
+}
+
+img {
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding-bottom: 1rem;
+}
+
+section {
+    width: 40rem;
+    padding: 4rem;
+    font-size: 1rem;
+    background-color: azure;
+    float: right;
+}
+
+article {
+    width: 40rem;
+    padding: 3rem;
+    font-size: 1rem;
+    background-color: azure;
+    clear: both;
+    float: right;
+    
+}
+
+footer {
+    height: 2rem;
+    padding:1rem;
+    font-size: 1rem;
+    border-top: solid;
+    clear: both;
+    background-color: azure
+    
+}
+
+.namn {
+    
+    float:left;
+}
+
+.kontakt {
+    
+    float:right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: azure
+  }
+  
+  li {
+    text-align: center;
+  }
+  
+  li a {
+    display: block;
+    background-color:rgb(221, 249, 249)
+  }
+  
+  
+  li a:hover {
+    background-color:powderblue;
+  }
+  
